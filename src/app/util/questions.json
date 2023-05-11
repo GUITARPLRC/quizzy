@@ -1,0 +1,207 @@
+[
+	{
+		"question": "What was the name of the superhero played by Arnold Schwarzenegger in the 1997 movie 'Batman & Robin'?",
+		"options": ["The Joker", "The Riddler", "Mr. Freeze", "Two-Face"],
+		"answer": "Mr. Freeze"
+	},
+	{
+		"question": "Which 90s boy band was named after an Orlando-based entertainment complex?",
+		"options": ["Backstreet Boys", "NSYNC", "98 Degrees", "O-Town"],
+		"answer": "Backstreet Boys"
+	},
+	{
+		"question": "Which 90s TV show was set in the fictional town of Capeside, Massachusetts?",
+		"options": ["Friends", "Beverly Hills, 90210", "Dawson's Creek", "Saved by the Bell"],
+		"answer": "Dawson's Creek"
+	},
+	{
+		"question": "What was the name of the dog that starred in the 90s TV show 'Wishbone'?",
+		"options": ["Scooby-Doo", "Blue", "Buddy", "Wishbone"],
+		"answer": "Wishbone"
+	},
+	{
+		"question": "What was the name of the dance move popularized by MC Hammer in the 90s?",
+		"options": ["The Macarena", "The Running Man", "The Carlton", "The Hammer Dance"],
+		"answer": "The Hammer Dance"
+	},
+	{
+		"question": "Which 90s movie starred Macaulay Culkin as a boy who gets left behind by his family during the holidays?",
+		"options": ["Home Alone", "The Santa Clause", "Jingle All the Way", "Elf"],
+		"answer": "Home Alone"
+	},
+	{
+		"question": "Which 90s movie featured a group of high school students who are forced to serve detention together on a Saturday?",
+		"options": [
+			"The Breakfast Club",
+			"Clueless",
+			"Dazed and Confused",
+			"10 Things I Hate About You"
+		],
+		"answer": "The Breakfast Club"
+	},
+	{
+		"question": "Which 90s band released the hit song 'What's Up'?",
+		"options": ["No Doubt", "The Cranberries", "Garbage", "4 Non Blondes"],
+		"answer": "4 Non Blondes"
+	},
+	{
+		"question": "What was the name of the character played by Courteney Cox on the 90s TV show 'Friends'?",
+		"options": ["Rachel Green", "Phoebe Buffay", "Monica Geller", "Joey Tribbiani"],
+		"answer": "Monica Geller"
+	},
+	{
+		"question": "Which 90s movie starred Jim Carrey as a man who discovers that his whole life is a TV show?",
+		"options": ["The Truman Show", "Liar Liar", "Ace Ventura: Pet Detective", "Dumb and Dumber"],
+		"answer": "The Truman Show"
+	},
+	{
+		"question": "Which 90s TV show starred Tim Allen as a handyman and stand-up comedian?",
+		"options": ["Home Improvement", "Seinfeld", "The Fresh Prince of Bel-Air", "The Nanny"],
+		"answer": "Home Improvement"
+	},
+	{
+		"question": "What was the name of the character played by Mark-Paul Gosselaar on the 90s TV show 'Saved by the Bell'?",
+		"options": ["Zack Morris", "A.C. Slater", "Screech Powers", "Lisa Turtle"],
+		"answer": "Zack Morris"
+	},
+	{
+		"question": "Which 90s movie starred Robin Williams as a man who gets trapped inside a board game?",
+		"options": ["Jumanji", "The Lion King", "Toy Story", "The Hunchback of Notre Dame"],
+		"answer": "Jumanji"
+	},
+	{
+		"question": "Which singer released the hit song 'Smooth' featuring Rob Thomas in 1999?",
+		"options": ["Santana", "Enrique Iglesias", "Marc Anthony", "Ricky Martin"],
+		"answer": "Santana"
+	},
+	{
+		"question": "What was the name of the band that performed the song 'One Headlight' in 1996?",
+		"options": ["Counting Crows", "The Wallflowers", "Matchbox Twenty", "Third Eye Blind"],
+		"answer": "The Wallflowers"
+	},
+	{
+		"question": "In which 90s movie did Christian Slater play the character Mark Hunter?",
+		"options": ["Pump Up the Volume", "Heathers", "True Romance", "Broken Arrow"],
+		"answer": "Pump Up the Volume"
+	},
+	{
+		"question": "What was the name of the fictional high school in the TV show 'My So-Called Life'?",
+		"options": [
+			"Liberty High School",
+			"Middleton High School",
+			"Hartley High School",
+			"Blue Valley High School"
+		],
+		"answer": "Liberty High School"
+	},
+	{
+		"question": "What was the name of the video game console released by Sega in 1999?",
+		"options": ["Dreamcast", "Genesis", "Saturn", "Game Gear"],
+		"answer": "Dreamcast"
+	},
+	{
+		"question": "Which band released the album 'Siamese Dream' in 1993?",
+		"options": ["Radiohead", "Nirvana", "The Smashing Pumpkins", "Pearl Jam"],
+		"answer": "The Smashing Pumpkins"
+	},
+	{
+		"question": "What was the name of the character played by Jason Priestley on 'Beverly Hills 90210'?",
+		"options": ["Dylan McKay", "Brandon Walsh", "Steve Sanders", "David Silver"],
+		"answer": "Brandon Walsh"
+	},
+	{
+		"question": "Which movie won the Academy Award for Best Picture in 1994?",
+		"options": ["Forrest Gump", "Pulp Fiction", "The Shawshank Redemption", "Quiz Show"],
+		"answer": "Forrest Gump"
+	},
+	{
+		"question": "Which 90s sitcom was set in the fictional town of Lanford, Illinois?",
+		"options": ["Full House", "Roseanne", "Home Improvement", "The Fresh Prince of Bel-Air"],
+		"answer": "Roseanne"
+	},
+	{
+		"question": "What was the name of the character played by Johnny Depp in the 1990 movie 'Edward Scissorhands'?",
+		"options": ["Edward", "Jack", "Vincent", "Sweeney Todd"],
+		"answer": "Edward"
+	},
+	{
+		"question": "What was the name of the actor who played the character Ross on the TV show 'Friends'?",
+		"options": ["David Schwimmer", "Matthew Perry", "Matt LeBlanc", "Courteney Cox"],
+		"answer": "David Schwimmer"
+	},
+	{
+		"question": "Which 90s movie featured the characters Clarence and Alabama, played by Christian Slater and Patricia Arquette?",
+		"options": ["Natural Born Killers", "True Romance", "The Crow", "Kalifornia"],
+		"answer": "True Romance"
+	},
+	{
+		"question": "What was the name of the boy band that released the album 'Millennium' in 1999?",
+		"options": ["Backstreet Boys", "NSYNC", "98 Degrees", "Hanson"],
+		"answer": "Backstreet Boys"
+	},
+	{
+		"question": "Which 90s TV show was a spin-off of 'Beverly Hills 90210'?",
+		"options": ["Melrose Place", "90210", "Models Inc.", "The Heights"],
+		"answer": "Melrose Place"
+	},
+	{
+		"question": "Which 90s movie starred Winona Ryder as the title character?",
+		"options": ["Heathers", "Clueless", "Reality Bites", "Empire Records"],
+		"answer": "Heathers"
+	},
+	{
+		"question": "Which TV show featured a group of teens solving mysteries and was inspired by the 'Archie' comics?",
+		"options": ["Dawson's Creek", "Party of Five", "Buffy the Vampire Slayer", "Riverdale"],
+		"answer": "Riverdale"
+	},
+	{
+		"question": "Which 90s movie featured the character Lester Burnham, played by Kevin Spacey?",
+		"options": ["The Sixth Sense", "The Usual Suspects", "American Beauty", "Fight Club"],
+		"answer": "American Beauty"
+	},
+	{
+		"question": "Which 90s TV show featured the character Agent Dale Cooper, played by Kyle MacLachlan?",
+		"options": ["The X-Files", "Twin Peaks", "The Sopranos", "The West Wing"],
+		"answer": "Twin Peaks"
+	},
+	{
+		"question": "What was the name of the fictional band fronted by Mark Wahlberg's character in the movie 'Rock Star'?",
+		"options": ["Steel Dragon", "Dangerous Toys", "Spinal Tap", "Winger"],
+		"answer": "Steel Dragon"
+	},
+	{
+		"question": "Which 90s movie starred Nicolas Cage as a newlywed cop who discovers a group of corrupt officers in his precinct?",
+		"options": ["Leaving Las Vegas", "Face/Off", "Con Air", "The Bad Lieutenant"],
+		"answer": "The Bad Lieutenant"
+	},
+	{
+		"question": "Which 90s TV show was a medical drama set in Chicago and starred Mandy Patinkin and Adam Arkin?",
+		"options": ["ER", "Chicago Hope", "St. Elsewhere", "Doogie Howser, M.D."],
+		"answer": "Chicago Hope"
+	},
+	{
+		"question": "Which 90s movie starred John Travolta as a man who becomes obsessed with a woman he's been spying on?",
+		"options": ["Blow Out", "Body Double", "The Fan", "The General's Daughter"],
+		"answer": "The Fan"
+	},
+	{
+		"question": "Which 90s TV show starred Sarah Michelle Gellar as a high school student who fights vampires?",
+		"options": ["Charmed", "Buffy the Vampire Slayer", "Angel", "True Blood"],
+		"answer": "Buffy the Vampire Slayer"
+	},
+	{
+		"question": "Which 90s movie featured the characters William Miller and Penny Lane, played by Patrick Fugit and Kate Hudson?",
+		"options": ["Almost Famous", "High Fidelity", "Empire Records", "Singles"],
+		"answer": "Almost Famous"
+	},
+	{
+		"question": "Which 90s TV show was a legal drama set in Boston and starred Dylan McDermott and Lara Flynn Boyle?",
+		"options": ["The Practice", "Ally McBeal", "Boston Legal", "L.A. Law"],
+		"answer": "The Practice"
+	},
+	{
+		"question": "Which 90s movie starred Ethan Hawke and Uma Thurman as lovers who meet in a futuristic society where people are genetically engineered?",
+		"options": ["Gattaca", "The Matrix", "Dark City", "The Fifth Element"],
+		"answer": "Gattaca"
+	}
+]
